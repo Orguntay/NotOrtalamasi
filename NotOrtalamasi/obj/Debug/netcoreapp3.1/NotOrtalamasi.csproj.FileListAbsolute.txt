@@ -1,0 +1,13 @@
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\netcoreapp3.1\NotOrtalamasi.exe
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\netcoreapp3.1\NotOrtalamasi.deps.json
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\netcoreapp3.1\NotOrtalamasi.runtimeconfig.json
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\netcoreapp3.1\NotOrtalamasi.runtimeconfig.dev.json
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\netcoreapp3.1\NotOrtalamasi.dll
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\bin\Debug\netcoreapp3.1\NotOrtalamasi.pdb
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.csprojAssemblyReference.cache
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.AssemblyInfoInputs.cache
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.AssemblyInfo.cs
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.csproj.CoreCompileInputs.cache
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.dll
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.pdb
+C:\Users\AKR3P\source\repos\NotOrtalamasi\NotOrtalamasi\obj\Debug\netcoreapp3.1\NotOrtalamasi.genruntimeconfig.cache
